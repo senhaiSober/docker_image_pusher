@@ -1,1 +1,2 @@
-imroc/logrotate:3.21
+nginx:1.27.0
+ngrok/ngrok:latest
