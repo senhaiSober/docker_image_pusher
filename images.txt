@@ -2,3 +2,4 @@ nginx:1.27.0
 ngrok/ngrok:latest
 redis:7.4.0
 node:20.15.0
+pytorch:2.3.1-cuda12.1-cudnn8-devel
